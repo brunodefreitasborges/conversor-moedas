@@ -1,0 +1,19 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(128, 129, 129);
+}
+
+.linha {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+}
+
+.App {
+  margin: auto;
+  max-width: 900px;
+}
